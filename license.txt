@@ -1,4 +1,4 @@
-NamuhIma Opened License v1
+NamuhIma Opened License v1.01
 Copyright (C) NamuhIma Team
 
 Terms and Conditions:
@@ -12,14 +12,6 @@ You can:
 3.You can sublicense.
 
 4.You can delete,change the copyright.
-
-You can't:
-
-1.You can't poop in there.
-
-2.You can't eat shit in there.
-
-3.You can't fuck the project.
 
 Other:
 
