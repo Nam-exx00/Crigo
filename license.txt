@@ -1,4 +1,4 @@
-NamuhIma Opened License v1.01
+NamuhIma Opened License v1.02
 Copyright (C) NamuhIma Team
 
 Terms and Conditions:
@@ -10,8 +10,6 @@ You can:
 2.You can copy,modify and distribute the project.
 
 3.You can sublicense.
-
-4.You can delete,change the copyright.
 
 Other:
 
